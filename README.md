@@ -1,4 +1,4 @@
-<p>This Telegram bot is a highly adaptable and user-friendly creation by Harshit Sharma (harshitethic), designed to provide an engaging and interactive experience to users. Leveraging the power of GPT-Turbo 3.5 and Dall-E models, the bot intelligently generates responses to user queries. While voice and image processing features are currently under development, the bot supports text commands for generating text and images. As a talented developer, Harshit Sharma aims to continually enhance and expand the features of this bot, providing even greater value to users.</p>
+<p>This Telegram bot is a highly adaptable and user-friendly creation by Harshit Sharma (harshitethic), designed to provide an engaging and interactive experience to users. Leveraging the power of GPT-Turbo 3.5 and Dall-E mods, the bot intelligently generates responses to user queries. While voice and image processing features are currently under development, the bot supports text commands for generating text and images. As a talented developer, Harshit Sharma aims to continually enhance and expand the features of this bot, providing even greater value to users.</p>
 
 ## Installation:
 <ol>
